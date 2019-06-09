@@ -115,7 +115,8 @@ This happen when your deploy instance using python 2.7. So to fix this we will c
 5. Click **Apply** button and wating for the environtment update.
 6. Done
 
-Result
+### Result 
+[AWS Elastic Beanstalk Django Sekeleton](http://eb-django-skeleton-env.nssdmpje2t.ap-southeast-1.elasticbeanstalk.com/)
 
 ![AWS Elastic Beanstalk Skeleton by Quan Vu](eb-django-skeleton.png)
 
